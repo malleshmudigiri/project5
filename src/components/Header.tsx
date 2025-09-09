@@ -359,12 +359,7 @@ const Header: React.FC = () => {
               <Newspaper className="h-5 w-5" />
               {/* <span>Blog</span> */}
             </Link>
-            <button
-              onClick={() => setIsSearchOpen(!isSearchOpen)}
-              className="hover:text-[#ff6b00] transition-colors"
-            >
-              <Search className="h-5 w-5" />
-            </button>
+            
           </div>
 
           {/* Mobile Menu Button */}
