@@ -287,7 +287,7 @@ const Header: React.FC = () => {
               onMouseLeave={() => setIsSolutionsOpen(false)}
             >
               <button className="flex items-center space-x-1 hover:text-[#ff6b00] transition-colors">
-                <span>Solutions</span>
+                <span>SOLUTIONS</span>
                 <ChevronDown className="h-4 w-4" />
               </button>
 

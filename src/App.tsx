@@ -83,11 +83,11 @@ import ContractVehicles from './pages/ContractVehicles';
 import Careers from './pages/Careers';
 import Contact from './pages/Contact';
 import Blog from './pages/Blog';
-import Sector from './pages/Sector';
+import Sector from './pages/sector';
 import Solutions from './pages/Solutions';
 import Capabilities from './pages/Capabilities';
 import Aws from './pages/Aws';
-import DevSecOps from './pages/DevSecOps';
+import DevSecOps from './pages/devsecops';
 
 import './index.css';
 

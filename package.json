@@ -11,6 +11,7 @@
   },
   "dependencies": {
     "framer": "^2.4.1",
+    "framer-motion": "^12.23.12",
     "icons": "^1.0.0",
     "lucide-react": "^0.542.0",
     "motion": "^12.23.12",
