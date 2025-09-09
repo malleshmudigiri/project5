@@ -2260,17 +2260,17 @@
 //   {
 //     title: "Cloud Migration",
 //     description: "It is a long established fact that a reader will be distracted by the readable content of a page.",
-//     image: "./public/Image-ASSET-small-SIZE-Default-STATE-DEFAULT@3x.png",
+//     image: ".//Image-ASSET-small-SIZE-Default-STATE-DEFAULT@3x.png",
 //   },
 //   {
 //     title: "AI in Enterprises",
 //     description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-//     image: "./public/Image-ASSET-small-SIZE-Default-STATE-DEFAULT1@3x.png",
+//     image: ".//Image-ASSET-small-SIZE-Default-STATE-DEFAULT1@3x.png",
 //   },
 //   {
 //     title: "DevOps Transformation",
 //     description: "Contrary to popular belief, Lorem Ipsum is not simply random text.",
-//     image: "./public/Image-ASSET-small-SIZE-Default-STATE-DEFAULT2@3x.png",
+//     image: ".//Image-ASSET-small-SIZE-Default-STATE-DEFAULT2@3x.png",
 //   },
 // ];
 
@@ -2366,17 +2366,17 @@
 //           </p>
 //           <div className="grid md:grid-cols-3 gap-10">
 //             <div className="p-10 rounded-2xl shadow-lg bg-gray-50 hover:-translate-y-2 transition">
-//               <img src="./public/mentee-18812636@2x.png" alt="Consulting" className="mx-auto h-16 mb-6" />
+//               <img src=".//mentee-18812636@2x.png" alt="Consulting" className="mx-auto h-16 mb-6" />
 //               <h3 className="text-2xl font-bold mb-4">Consulting</h3>
 //               <p className="text-gray-600">Strategic guidance for digital transformation success.</p>
 //             </div>
 //             <div className="p-10 rounded-2xl shadow-lg bg-gray-50 hover:-translate-y-2 transition">
-//               <img src="./public/creative-15237931@2x.png" alt="AI" className="mx-auto h-16 mb-6" />
+//               <img src=".//creative-15237931@2x.png" alt="AI" className="mx-auto h-16 mb-6" />
 //               <h3 className="text-2xl font-bold mb-4">AI Transformation</h3>
 //               <p className="text-gray-600">Leverage AI to enhance operations and decision-making.</p>
 //             </div>
 //             <div className="p-10 rounded-2xl shadow-lg bg-gray-50 hover:-translate-y-2 transition">
-//               <img src="./public/modernization-13496067@2x.png" alt="Modernization" className="mx-auto h-16 mb-6" />
+//               <img src=".//modernization-13496067@2x.png" alt="Modernization" className="mx-auto h-16 mb-6" />
 //               <h3 className="text-2xl font-bold mb-4">Modernization</h3>
 //               <p className="text-gray-600">Upgrade your infrastructure with modern cloud-native solutions.</p>
 //             </div>
@@ -2497,19 +2497,19 @@
 //     title: "Big DATA",
 //     description:
 //       "It is a long established fact that a reader will be distracted by the readable content of a page.",
-//     image: "./public/1.png",
+//     image: ".//1.png",
 //   },
 //   {
 //     title: "Cloud ",
 //     description:
 //       "It is a long established fact that a reader will be distracted by the readable content of a page.",
-//     image: "./public/2.png",
+//     image: ".//2.png",
 //   },
 //   {
 //     title: "DevOps Transformation",
 //     description:
 //       "It is a long established fact that a reader will be distracted by the readable content of a page.",
-//     image: "./public/3.png",
+//     image: ".//3.png",
 //   },
 // ];
 
@@ -2558,7 +2558,7 @@
 //         {
 //           title: "AI Transformation",
 //           sub: "Harness AI to unlock insights, automate processes, and accelerate innovation.",
-//           images: ["./public/12.jpg", "./public/12.jpg"],
+//           images: [".//12.jpg", ".//12.jpg"],
 //         },
 //       ].map((slide, idx) => (
 //         <div
@@ -2783,17 +2783,17 @@
 //         {
 //           title: "CONSULTING",
 //           description: "Guiding strategy and execution for smarter business outcomes.",
-//           icon: "./public/mentee_18812636.png",
+//           icon: ".//mentee_18812636.png",
 //         },
 //         {
 //           title: "MODERNIZATION",
 //           description: "Upgrading legacy systems into agile, future-ready digital platforms.",
-//           icon: "./public/modernization_13496067.png",
+//           icon: ".//modernization_13496067.png",
 //         },
 //         {
 //           title: "AI TRANSFORMATION",
 //           description: "Leveraging AI to drive automation, intelligence, and growth.",
-//           icon: "./public/creative_15237931.png",
+//           icon: ".//creative_15237931.png",
 //         },
 //       ].map((item, idx) => (
 //         <div
@@ -3060,22 +3060,22 @@
 //   {
 //     title: "Federal",
 //     subtitle: "Driving digital transformation across federal agencies with secure IT solutions.",
-//     image: "./public/Fedral.jpg",
+//     image: ".//Fedral.jpg",
 //   },
 //   {
 //     title: "Healthcare",
 //     subtitle: "Modern IT solutions that enhance patient care and streamline operations.",
-//     image: "./public/Healthcare.png",
+//     image: ".//Healthcare.png",
 //   },
 //   {
 //     title: "Modernization",
 //     subtitle: "Seamless IT modernization that drives agility, efficiency, and long-term growth.",
-//     image: "./public/Modernization.jpg",
+//     image: ".//Modernization.jpg",
 //   },
 //   {
 //     title: "AI Transformation",
 //     subtitle: "Harness AI to unlock insights, automate processes, and accelerate innovation.",
-//     image: "./public/AI.jpg",
+//     image: ".//AI.jpg",
 //   },
 // ];
 
@@ -3109,19 +3109,19 @@
 //     title: "Big DATA",
 //     description:
 //       "It is a long established fact that a reader will be distracted by the readable content of a page.",
-//     image: "./public/1.png",
+//     image: ".//1.png",
 //   },
 //   {
 //     title: "Cloud",
 //     description:
 //       "It is a long established fact that a reader will be distracted by the readable content of a page.",
-//     image: "./public/2.png",
+//     image: ".//2.png",
 //   },
 //   {
 //     title: "DevOps Transformation",
 //     description:
 //       "It is a long established fact that a reader will be distracted by the readable content of a page.",
-//     image: "./public/3.png",
+//     image: ".//3.png",
 //   },
 // ];
 
@@ -3356,17 +3356,17 @@
 //         {
 //           title: "CONSULTING",
 //           description: "Guiding strategy and execution for smarter business outcomes.",
-//           icon: "./public/mentee_18812636.png",
+//           icon: ".//mentee_18812636.png",
 //         },
 //         {
 //           title: "MODERNIZATION",
 //           description: "Upgrading legacy systems into agile, future-ready digital platforms.",
-//           icon: "./public/modernization_13496067.png",
+//           icon: ".//modernization_13496067.png",
 //         },
 //         {
 //           title: "AI TRANSFORMATION",
 //           description: "Leveraging AI to drive automation, intelligence, and growth.",
-//           icon: "./public/creative_15237931.png",
+//           icon: ".//creative_15237931.png",
 //         },
 //       ].map((item, idx) => (
 //         <div
@@ -3573,25 +3573,25 @@
 //     title: "Federal",
 //     subtitle:
 //       "Driving digital transformation across federal agencies with secure IT solutions.",
-//     image: "./public/Fedral.jpg",
+//     image: ".//Fedral.jpg",
 //   },
 //   {
 //     title: "Healthcare",
 //     subtitle:
 //       "Modern IT solutions that enhance patient care and streamline operations.",
-//     image: "./public/Healthcare.png",
+//     image: ".//Healthcare.png",
 //   },
 //   {
 //     title: "Modernization",
 //     subtitle:
 //       "Seamless IT modernization that drives agility, efficiency, and long-term growth.",
-//     image: "./public/Modernization.jpg",
+//     image: ".//Modernization.jpg",
 //   },
 //   {
 //     title: "AI Transformation",
 //     subtitle:
 //       "Harness AI to unlock insights, automate processes, and accelerate innovation.",
-//     image: "./public/AI.jpg",
+//     image: ".//AI.jpg",
 //   },
 // ];
 
@@ -3625,19 +3625,19 @@
 //     title: "Big DATA",
 //     description:
 //       "It is a long established fact that a reader will be distracted by the readable content of a page.",
-//     image: "./public/1.png",
+//     image: ".//1.png",
 //   },
 //   {
 //     title: "Cloud",
 //     description:
 //       "It is a long established fact that a reader will be distracted by the readable content of a page.",
-//     image: "./public/2.png",
+//     image: ".//2.png",
 //   },
 //   {
 //     title: "DevOps Transformation",
 //     description:
 //       "It is a long established fact that a reader will be distracted by the readable content of a page.",
-//     image: "./public/3.png",
+//     image: ".//3.png",
 //   },
 // ];
 
@@ -3838,9 +3838,9 @@
 //     </main>
 //   );
 // }
-import React, { useEffect, useState } from "react";
+import { ArrowRight, Brain, Cloud, Lock, Server, Shield } from "lucide-react";
+import { useEffect, useState } from "react";
 import { Link } from "react-router-dom";
-import { ArrowRight, Brain, Cloud, Shield, Server, Lock } from "lucide-react";
 
 // Hero Slider Data
 const heroSlides = [
@@ -3928,19 +3928,19 @@ const blogs = [
     title: "Big DATA",
     description:
       "It is a long established fact that a reader will be distracted by the readable content of a page.",
-    image: "./public/1.png",
+    image: ".//1.png",
   },
   {
     title: "Cloud",
     description:
       "It is a long established fact that a reader will be distracted by the readable content of a page.",
-    image: "./public/2.png",
+    image: ".//2.png",
   },
   {
     title: "DevOps Transformation",
     description:
       "It is a long established fact that a reader will be distracted by the readable content of a page.",
-    image: "./public/3.png",
+    image: ".//3.png",
   },
 ];
 

@@ -1,5 +1,4 @@
-import React from "react";
-import { CheckCircle, Target, Lightbulb, Users, Rocket, Award, TrendingUp, Brain, Cloud, Shield } from "lucide-react";
+import { Award, Brain, CheckCircle, Cloud, Lightbulb, Rocket, Shield, Target, TrendingUp, Users } from "lucide-react";
 
 // Data (kept same, but design updated)
 const differentiators = [
@@ -67,17 +66,17 @@ const blogs = [
   {
     title: "Cloud Migration",
     description: "It is a long established fact that a reader will be distracted by the readable content of a page.",
-    image: "./public/Image-ASSET-small-SIZE-Default-STATE-DEFAULT@3x.png",
+    image: ".//Image-ASSET-small-SIZE-Default-STATE-DEFAULT@3x.png",
   },
   {
     title: "AI in Enterprises",
     description: "Lorem Ipsum is simply dummy text of the printing and typesetting industry.",
-    image: "./public/Image-ASSET-small-SIZE-Default-STATE-DEFAULT1@3x.png",
+    image: ".//Image-ASSET-small-SIZE-Default-STATE-DEFAULT1@3x.png",
   },
   {
     title: "DevOps Transformation",
     description: "Contrary to popular belief, Lorem Ipsum is not simply random text.",
-    image: "./public/Image-ASSET-small-SIZE-Default-STATE-DEFAULT2@3x.png",
+    image: ".//Image-ASSET-small-SIZE-Default-STATE-DEFAULT2@3x.png",
   },
 ];
 
@@ -173,17 +172,17 @@ export default function LandingPage() {
           </p>
           <div className="grid md:grid-cols-3 gap-10">
             <div className="p-10 rounded-2xl shadow-lg bg-gray-50 hover:-translate-y-2 transition">
-              <img src="./public/mentee-18812636@2x.png" alt="Consulting" className="mx-auto h-16 mb-6" />
+              <img src=".//mentee-18812636@2x.png" alt="Consulting" className="mx-auto h-16 mb-6" />
               <h3 className="text-2xl font-bold mb-4">Consulting</h3>
               <p className="text-gray-600">Strategic guidance for digital transformation success.</p>
             </div>
             <div className="p-10 rounded-2xl shadow-lg bg-gray-50 hover:-translate-y-2 transition">
-              <img src="./public/creative-15237931@2x.png" alt="AI" className="mx-auto h-16 mb-6" />
+              <img src=".//creative-15237931@2x.png" alt="AI" className="mx-auto h-16 mb-6" />
               <h3 className="text-2xl font-bold mb-4">AI Transformation</h3>
               <p className="text-gray-600">Leverage AI to enhance operations and decision-making.</p>
             </div>
             <div className="p-10 rounded-2xl shadow-lg bg-gray-50 hover:-translate-y-2 transition">
-              <img src="./public/modernization-13496067@2x.png" alt="Modernization" className="mx-auto h-16 mb-6" />
+              <img src=".//modernization-13496067@2x.png" alt="Modernization" className="mx-auto h-16 mb-6" />
               <h3 className="text-2xl font-bold mb-4">Modernization</h3>
               <p className="text-gray-600">Upgrade your infrastructure with modern cloud-native solutions.</p>
             </div>

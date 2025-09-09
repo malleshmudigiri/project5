@@ -174,7 +174,7 @@
 //           <div className="flex-shrink-0">
 //             <Link to="/">
 //               <img
-//                 src="./public/TechnoGen Logo. 1.png"
+//                 src=".//TechnoGen Logo. 1.png"
 //                 alt="Technogen Logo"
 //                 className="h-10 w-auto"
 //               />
@@ -253,10 +253,10 @@
 
 // export default Header;
 // #####
+import { AnimatePresence, motion } from "framer-motion";
+import { Briefcase, ChevronDown, Menu, Newspaper, X } from "lucide-react";
 import React, { useState } from "react";
 import { Link } from "react-router-dom";
-import { Menu, X, Search, Briefcase, Newspaper, ChevronDown } from "lucide-react";
-import { motion, AnimatePresence } from "framer-motion";
 
 const Header: React.FC = () => {
   const [isMenuOpen, setIsMenuOpen] = useState(false);
